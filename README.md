@@ -1,6 +1,6 @@
 # Thesis code and bits
 
-The thesis itself is in a separate repo. This is for notebooks etc.
+Notebooks developed for thesis. More info coming soon. 
 
 
 ## Versions
