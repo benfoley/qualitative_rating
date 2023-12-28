@@ -3,8 +3,5 @@
 Notebooks developed for thesis. More info coming soon. 
 
 
-## Versions
+[![DOI](https://zenodo.org/badge/571408113.svg)](https://zenodo.org/doi/10.5281/zenodo.10437109)
 
-## [0.0.1] - 2022-12-14
-
-Notebooks used for Zara study, first 20 Millions texts
